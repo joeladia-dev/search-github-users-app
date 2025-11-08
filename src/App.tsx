@@ -4,7 +4,7 @@ import UserProfile from '@/components/user/UserProfile';
 import UsersList from '@/components/UsersList';
 
 export default function App() {
-  const [userName, setUserName] = useState('wesbos');
+  const [userName, setUserName] = useState('buckyroberts');
 
   return (
     <main className='mx-auto max-w-6xl px-8 py-20'>

@@ -9,7 +9,7 @@ const avatarUrl =
   '	https://avatars.githubusercontent.com/u/176013?u=1d436e62dc32dbbf1bfefb4d658cd67553154c42&v=4';
 const name = 'wesbos';
 const bio = 'Passionate about coding and technology.';
-const url = 'https://github.com/wesbos';
+const url = 'https://github.com/buckyroberts';
 
 describe(' UserCard Component ', () => {
   it('renders correctly', () => {
